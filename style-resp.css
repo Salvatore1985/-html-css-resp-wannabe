@@ -1,7 +1,8 @@
 
 @media screen and (max-width:568px) {
+
     .row{background-color: #f2f2cd; 
-        margin: 0;
+        margin: 0 5px;
         width: auto;
         display: block;
     }
@@ -21,6 +22,7 @@
     }
     #steps.container .row{
         background-color: white;
+        margin: 0 5px;
     }
     #steps .row>.left,
     #steps .row>.central,
@@ -29,11 +31,13 @@
     width: 100%;
     margin-top: 0px;
   
+
+  
     }
     #why .row>.first,
     #why .row>.second,
     #why .row>.third {
-  
-    margin-top: 0;
+        margin: 0 5px;
+    
 }
 }
