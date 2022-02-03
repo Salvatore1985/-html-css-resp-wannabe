@@ -1,0 +1,10 @@
+
+@media screen and (max-width:568px) {
+    .row{background-color: #f2f2cd; 
+        margin: 0;
+        width: auto;
+        display: block;
+    }
+   
+    
+}
