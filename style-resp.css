@@ -22,4 +22,12 @@
     #steps.container .row{
         background-color: white;
     }
+    #steps .row>.left,
+    #steps .row>.central,
+    #steps .row>.right {
+    display: block;
+    width: 100%;
+    margin-top: 0px;
+  
+    }
 }
