@@ -14,5 +14,12 @@
     #lezioni .row>.right {
         width: 100%;
     }
-
+    h3{
+        margin-top: 0;
+        margin-bottom: 0;
+        
+    }
+    #steps.container .row{
+        background-color: white;
+    }
 }
