@@ -41,3 +41,54 @@
     
 }
 }
+/*BONUS*/
+@media screen and (min-width:569px)and (max-width:768px) {
+    .row{background-color: blueviolet; 
+        margin: 0 5px;
+        width: auto;
+        display: block;
+    }
+    img {
+        margin-top: 20px;
+        height: 150px;
+        
+    }
+    #lezioni .row>.left,
+    #lezioni .row>.right {
+        width: 100%;
+        margin-bottom: 25px;
+    }
+    h1{
+        color:rgba(165, 224, 75, 0.87);
+        text-decoration: underline;
+    }
+    h3{
+        margin-top: 0;
+        margin-bottom: 0;
+        color:rgba(60, 212, 22, 0.87);
+
+        
+    }
+    #steps.container .row{
+        background-color:darkviolet;
+        margin: 0 5px;
+    }
+    #steps .row>.left,
+    #steps .row>.central,
+    #steps .row>.right {
+    display: block;
+    width: 100%;
+    margin-top: 0px;
+  
+
+  
+    }
+    #why .row>.first,
+    #why .row>.second,
+    #why .row>.third {
+        margin: 0 5px;
+    
+}
+}
+
+
