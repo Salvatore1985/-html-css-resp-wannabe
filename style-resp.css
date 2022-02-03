@@ -30,4 +30,10 @@
     margin-top: 0px;
   
     }
+    #why .row>.first,
+    #why .row>.second,
+    #why .row>.third {
+  
+    margin-top: 0;
+}
 }
